@@ -1,0 +1,32 @@
+aid: food-standards-agency
+name: Food Standards Agency
+description: "UK food hygiene rating data API"
+url: http://ratings.food.gov.uk/open-data/en-GB
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Food Standards Agency
+    description: "UK food hygiene rating data API"
+    humanURL: http://ratings.food.gov.uk/open-data/en-GB
+    baseURL: http://ratings.food.gov.uk/open-data/en-GB
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: http://ratings.food.gov.uk/open-data/en-GB
+common:
+  - type: Website
+    url: http://ratings.food.gov.uk/open-data/en-GB
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
