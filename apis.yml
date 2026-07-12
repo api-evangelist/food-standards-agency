@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: http://ratings.food.gov.uk/open-data/en-GB
 common:
+  - type: VulnerabilityDisclosure
+    url: security/food-standards-agency-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/food-standards-agency-domain-security.yml
   - type: Website
     url: http://ratings.food.gov.uk/open-data/en-GB
   - type: PublicAPIsListing
