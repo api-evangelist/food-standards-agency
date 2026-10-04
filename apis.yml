@@ -39,7 +39,6 @@ apis:
   - name: Food Standards Agency
     description: "UK food hygiene rating data API"
     humanURL: http://ratings.food.gov.uk/open-data/en-GB
-    baseURL: http://ratings.food.gov.uk/open-data/en-GB
     tags:
       - Government
     properties:
